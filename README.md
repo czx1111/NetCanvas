@@ -116,11 +116,6 @@ NetCanvas/
 
 ### Docker 部署（推荐）
 
-```bash
-# 克隆项目
-git clone https://github.com/your-repo/NetCanvas.git
-cd NetCanvas
-
 # 一键启动
 docker-compose up -d
 
